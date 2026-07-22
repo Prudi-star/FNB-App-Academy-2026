@@ -1,6 +1,6 @@
 # The Smart ATM Withdrawal Simulator 
 
-print("Welcome to the ATM!!")
+print("Welcome to the ATM!")
 
 # Password input
 password = int(input("Enter your Password: "))
